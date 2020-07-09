@@ -2,19 +2,19 @@
 # Create a Java-Spring Project
 
 ## 1 Install Apache Maven
--To install Maven, first needs to install HomeBrew. Download HomeBrew at https://brew.sh/. 
--In Terminal 
+- To install Maven, first needs to install HomeBrew. Download HomeBrew at https://brew.sh/. 
+- In Terminal 
 - $ `brew install maven`
--Check maven version
+- Check maven version
 - $ `mvn version`
--Now you should see something like this:
+- Now you should see something like this:
 ![image](https://github.com/zionhung/JAVA_SPring-CheatSheet/blob/master/IMG/Screen%20Shot%202020-07-08%20at%2010.00.30%20PM.png)
 
 ## 2 Start a New Spring Boot Project
--To start a Spring Project, you need the Following ready:
--Spring Tool Suite set up
--JDK and its environment variables already set up
--Maven and its environment variables already set up
+- To start a Spring Project, you need the Following ready:
+- Spring Tool Suite set up
+- JDK and its environment variables already set up
+- Maven and its environment variables already set up
 
 - 2.1 Create an empty folder or directory wherever you want your Spring Boot projects to be located at.(e.g. "xxx/springPlatform")
 

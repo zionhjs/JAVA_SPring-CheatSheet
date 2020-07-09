@@ -27,8 +27,8 @@
 
 - 2.3 basic Collection operations
 - view all collections in a Database -> $ `show collections`
-- Create a new collection in the current database -> $ `db.createCollection("Collection_Name)`
-- Destroy a collection -> $ `db.CollectionName.drop()`
+- Create a new collection in the current database -> $ `db.createCollection("Collection_Name")`
+- Destroy a collection(Current) -> $ `db.CollectionName.drop()`
 
 ## 3 CRUD operations in MongoDB
 - 3.1 Create - Insert a document into a collection
