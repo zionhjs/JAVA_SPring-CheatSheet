@@ -8,3 +8,4 @@
 -Check maven version
 - $ mvn version
 -Now you should see something like this:
+![image](https://github.com/zionhung/JAVA_SPring-CheatSheet/blob/master/IMG/Screen%20Shot%202020-07-08%20at%2010.00.30%20PM.png)
