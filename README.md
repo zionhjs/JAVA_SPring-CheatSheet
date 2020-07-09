@@ -1,16 +1,16 @@
 # JAVA_SPring-CheatSheet (For Mac only!)
 # Create a Java-Spring Project
 
-#1 Install Apache Maven
+## 1 Install Apache Maven
 -To install Maven, first needs to install HomeBrew. Download HomeBrew at https://brew.sh/. 
 -In Terminal 
-- $ brew install maven
+- $ `brew install maven`
 -Check maven version
-- $ mvn version
+- $ `mvn version`
 -Now you should see something like this:
 ![image](https://github.com/zionhung/JAVA_SPring-CheatSheet/blob/master/IMG/Screen%20Shot%202020-07-08%20at%2010.00.30%20PM.png)
 
-#2 Start a New Spring Boot Project
+## 2 Start a New Spring Boot Project
 -To start a Spring Project, you need the Following ready:
 -Spring Tool Suite set up
 -JDK and its environment variables already set up
@@ -34,4 +34,6 @@ Package Field: Same as the group field.
 
 - 2.5 Click finish and we'll add our dependencies later from our pom.xml file
 
-************************ Please check pom.xml file to add our dependencies ***************************************************
+## 3 Please check pom.xml file to add our dependencies 
+
+## 4  Please check /src/resources/application.properties file to configure the project 
