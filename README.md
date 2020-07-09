@@ -37,3 +37,6 @@ Package Field: Same as the group field.
 ## 3 Please check pom.xml file to add our dependencies 
 
 ## 4  Please check /src/resources/application.properties file to configure the project 
+
+## 5  Create Models / Repositories / Services / Repositories PACKAGE at project/src/main/java folder:
+![image](https://github.com/zionhung/JAVA_SPring-CheatSheet/blob/master/IMG/2.3.png)
